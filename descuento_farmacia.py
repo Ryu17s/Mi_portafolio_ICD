@@ -1,10 +1,10 @@
-monto_total = int(input("Monto Total Medicamentos"))
-porcentaje_descuento = int(input("Porcentaje de descuento"))
+total = int(input())
+descuento = int(input())
 
-monto_descuento = (monto_total * porcentaje_descuento) / 100
-total_pagar = monto_total - monto_descuento
+montoDescuento = int(total * (descuento / 100))
+totalPagar = int(total - montoDescuento)
 
-print(f"Monto Total Medicamentos = {monto_total}")
-print(f"Porcentaje de descuento = {porcentaje_descuento}%")
-print(f"Monto de descuento = {int(monto_descuento)}")
-print(f"Monto Total a Pagar = {int(total_pagar)}")
+print("Monto Total Medicamentos =", total)
+print(f"Porcentaje de descuento = {descuento}%")
+print("Monto de descuento =", montoDescuento)
+print("Monto Total a Pagar =", totalPagar)
