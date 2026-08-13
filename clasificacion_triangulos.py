@@ -13,3 +13,5 @@ if (a + b > c) and (a + c > b) and (c + b > a):
         print("El triángulo es escaleno")
 else:
     print("No es un triángulo")
+
+
