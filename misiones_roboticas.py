@@ -8,7 +8,7 @@
 
 # n (int): Cantidad total de misiones a registrar.
 # nombreRobot (str) : Nombre del robot que realiza la misión.
-# sede (str): Sede donde se realiza la misión.
+# sede  (str): Sede donde se realiza la misión.
 # tipoMision (str): Tipo de misión realizada.
 # duracion (int): Duración de la misión en minutos.
 # porcentajeBateria (int): Porcentaje de batería consumida  durante la misión.

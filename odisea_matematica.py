@@ -67,8 +67,8 @@ def procesar(i):
     return False
 
 def mostrar(logrado, total_jugadores):
-    print(f"Total de jugadores que SI desbloquean portal = {logrado}")
-    print(f"Total de jugadores que NO desbloquean portal = {total_jugadores - logrado}")
+    print(f"Total de jugadores que Si desbloquean portal = {logrado}")
+    print(f"Total de jugadores que No desbloquean portal = {total_jugadores - logrado}")
     return
 
 n = validar()

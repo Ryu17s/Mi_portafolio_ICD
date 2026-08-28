@@ -45,7 +45,7 @@ habitantes = validarHabitantes()
  
 print(f"Harry, se procesarán {habitantes} habitantes del mundo mágico.")
 print()
-print("----- INICIO DEL PROCESO -----")
+print("------ INICIO DEL PROCESO ------")
 print()
 
 for i in range(habitantes):

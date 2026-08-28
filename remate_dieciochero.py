@@ -8,7 +8,7 @@ while asistentes < 1 or asistentes > 1000:
 print("Cantidad de asistentes al remate dieciochero =",asistentes,"\n")
 
 print("REMATE DIECIOCHERO")
-print("==================\n")
+print("===================\n")
   
 totalRecaudado = 0
 totalEmpanada = 0

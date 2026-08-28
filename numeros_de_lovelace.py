@@ -44,9 +44,9 @@ while True:
     numero = int(input("Ingrese un numero"))
     if numero <= 0:
             break
-    print("----------------------------")
+    print("-----------------------------")
     print("Análisis Número" , numero)
-    print("----------------------------")
+    print("-----------------------------")
     
     if cumple1(numero): 
         suma = suma_digitos(numero)

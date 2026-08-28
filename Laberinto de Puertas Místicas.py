@@ -90,7 +90,7 @@ while True:
             print("SI PUEDE ABRIR LA PUERTA DEL DESTINO.")
             pDestino += 1
         else:
-            print("NO PUEDE ABRIR LA PUERTA DEL DESTINO.")
+            print("NO PUEDE ABRIR LA PUERTA DEL DESTINO")
     
     print()
 

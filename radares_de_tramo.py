@@ -51,7 +51,7 @@ for i in range(1, cantVehiculo + 1):
                 gravisima += 1
                 utmsRecaudadas += 3.0
 
-print("********** REPORTE FINAL **********\n")
+print("*********** REPORTE FINAL ***********\n")
 
 pctErrores = (errores / cantVehiculo) * 100
 pctNoExcedio = (noExcedio / cantVehiculo) * 100

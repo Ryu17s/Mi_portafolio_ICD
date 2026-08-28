@@ -91,7 +91,7 @@ jTrueno = 0
 noActivo = 0
 
 while True:
-    rut = int(input("Ingrese su RUT"))
+    rut = int(input("Ingrese su RUT."))
     if rut == 0:
         break
     

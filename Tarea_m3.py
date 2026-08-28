@@ -34,7 +34,7 @@ def leer_visualizaciones():
         if linea == "FIN_VISUALIZACIONES":
             break
         datos = linea.split(";")
-        # Posición 2 (minutos vistos) se convierte a entero
+        # Posición 2(minutos vistos) se convierte a entero
         tupla = (datos[0], datos[1], int(datos[2]), datos[3])
         lista.append(tupla)
     return lista
