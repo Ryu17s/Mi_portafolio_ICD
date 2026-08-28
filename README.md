@@ -1,6 +1,6 @@
 # Mis Inicios en Ingeniería Civil en Ciencia de Datos
 
-¡Hola! Este repositorio es un portafolio personal que recopila los primeros scripts y algoritmos que desarrollé en Python durante mis primeros pasos en la carrera. 
+Hola. Este repositorio es un portafolio personal que recopila los primeros y algoritmos que desarrollé en Python durante mis primeros pasos en la carrera. 
 
 El objetivo de este espacio es documentar mi evolución en los fundamentos de programación en python, la resolución de problemas lógicos y la aplicación de fundamentos matemáticos aplicados a la computación.
 
