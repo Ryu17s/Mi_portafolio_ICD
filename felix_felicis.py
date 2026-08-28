@@ -76,4 +76,4 @@ for i in range(habitantes):
     print(f"Estatura : {estatura} cm - {metros} m.-")
     print(f"Dosis de FELIX FELICIS según su edad = {dosis_ml} ml.")
     print(f"El habitante tendrá {diasSuerte} días de SUERTE !")
-    print("--------------------------------------------------")
+    print("-------------------------------------------------")

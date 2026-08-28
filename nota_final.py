@@ -8,4 +8,4 @@ if promedio >= 6.0:
     print("Felicitaciones Aprobaste con Distinción")
     print("Felices vacaciones !!")
 else:
-    print("Felices vacaciones !!")
+    print("Felices vacaciones !!.")

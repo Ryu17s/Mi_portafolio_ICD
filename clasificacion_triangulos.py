@@ -12,6 +12,6 @@ if (a + b > c) and (a + c > b) and (c + b > a):
     elif a != b and b != c:
         print("El triángulo es escaleno")
 else:
-    print("No es un triángulo")
+    print("No es un triángulo.")
 
 

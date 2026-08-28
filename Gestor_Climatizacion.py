@@ -25,7 +25,7 @@ while True:
         if temp < minima:
             minima = temp
 # Estadisticas
-print("-----------------------------------")
+print("------------------------------------")
 print("El total de lecturas procesadas es", total )
 print("Temperatura maxima es", maxima)
 print("Temperatura minima es" , minima)

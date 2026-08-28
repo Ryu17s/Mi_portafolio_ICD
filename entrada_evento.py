@@ -23,5 +23,5 @@ elif opcion == 2 and montoUF >= 100:
 precioPesos = precioDolar * dolar
 
 print(f"Tienes un descuento del {descuento}")
-print(f"El valor final de tu entrada en dólares es {precioDolar}")
-print(f"El valor final de tu entrada en pesos es {precioPesos}")
+print(f"El valor final de tu entrada en dólares = {precioDolar}")
+print(f"El valor final de tu entrada en pesos = {precioPesos}")

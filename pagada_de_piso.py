@@ -10,4 +10,4 @@ pagar = round(totalGastado / personas)
 
 print("Total items comprados :",totalComprado)
 print("Total gastado en pasteles y bebidas :",totalGastado)
-print("Monto a pagar por cada uno :",pagar )
+print("Monto a pagar por cada uno es",pagar )

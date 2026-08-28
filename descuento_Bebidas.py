@@ -19,4 +19,4 @@ totalPagar = montoTotal - descuento
 
 print("Total de la compra = $",round(montoTotal))
 print("Descuento = $",round(descuento))
-print("Precio total a pagar = $",round(totalPagar))
+print("Precio total a pagar es $",round(totalPagar))

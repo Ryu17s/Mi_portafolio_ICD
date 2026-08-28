@@ -6,7 +6,7 @@ porcentaje_ninos = (cant_ninos / total_alumnos) * 100
 porcentaje_ninas = (cant_ninas / total_alumnos) * 100
 
 print(f"Porcentaje de Niñas en el curso = {porcentaje_ninas}%")
-print(f"Porcentaje de Niños en el curso = {porcentaje_ninos}%")
+print(f"Porcentaje de Niños en el curso = {porcentaje_ninos}%.")
 
 
 

@@ -15,4 +15,4 @@ def alertaSistema(temperatura):
         else:
             return "alerta critica impar"
     else:
-        return "Operacion normal"
+        return "Operacion normal."

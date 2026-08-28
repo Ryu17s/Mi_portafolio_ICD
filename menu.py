@@ -24,6 +24,6 @@ def valorarConsumo(consumo, menu):
         print(f"{tupla[1]} {nombre} $ {subtotal}")
         total += subtotal
         
-    print(f"TOTAL = $ {total}")
+    print(f"Total = $ {total}")
 
 

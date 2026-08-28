@@ -38,7 +38,7 @@ elif m3Consumido >= 65:
     print(f"Monto Total Antes del recargo = ${montoBase}")
     totalPagar = montoBase * 1.55
 else:
-    print("Cliente no presenta sobreconsumo")
+    print("Cliente no presenta sobreconsumo.")
     totalPagar = montoBase
 
 print(f"Monto Total a Pagar = ${totalPagar}") 

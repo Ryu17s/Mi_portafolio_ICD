@@ -9,4 +9,4 @@ elif ventas >= 500000 and ventas < 1000000:
 else:
     comision = ventas * 0.15
     
-print("su comisión es de $",round(comision))
+print("Su comisión es de $",round(comision))

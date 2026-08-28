@@ -1,7 +1,7 @@
 def esPalindromo():
-    listaDatos = []
+    listaDato = []
     while True:
         n = input("E: ")
         if n == "FIN":
-            return listaDatos
-        listaDatos.append(n)
+            return listaDato
+        listaDato.append(n)

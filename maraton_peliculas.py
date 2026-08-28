@@ -14,6 +14,6 @@ totalGasto = ((bebida * precioBebida) + (pizza * precioPizza) + (palomita * prec
 cuota = round(totalGasto / personas)
 cantidadTotal = bebida + pizza + palomita
 
-print("Total gasto compra =", totalGasto)
-print("Valor cuota por invitado =", cuota)
-print("Total items comprados =", cantidadTotal)
+print("Total gasto compra = ",totalGasto)
+print("Valor cuota por invitado = ",cuota)
+print("Total items comprados = ",cantidadTotal)

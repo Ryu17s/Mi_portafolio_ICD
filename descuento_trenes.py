@@ -8,4 +8,4 @@ elif (tipoPasajero == "4" or tipoPasajero == "7") and horaViaje == "1":
 elif (tipoPasajero == "4" or tipoPasajero == "7") and horaViaje == "2":
     print("valor pasaje = 550")
 elif (tipoPasajero == "4" or tipoPasajero == "7") and horaViaje == "3":
-    print("valor pasaje = 410")
+    print("valor pasaje = 410.")

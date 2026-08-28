@@ -17,6 +17,6 @@ copiaLista = leerLista()
 print(f"Lista = {copiaLista}")
 
 if alternada(copiaLista):
-    print("La lista SI es alternada par-impar ")
+    print("La lista SI es alternada par-impar")
 else:
-    print("La lista NO es alternada par-impar ")
+    print("La lista NO es alternada par-impar")

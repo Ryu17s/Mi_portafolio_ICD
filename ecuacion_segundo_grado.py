@@ -19,4 +19,4 @@ else:
         print(f"x = {x}")
 
     else:
-        print("La ecuación tiene raíces complejas")
+        print("La ecuación tiene raíces complejas.")

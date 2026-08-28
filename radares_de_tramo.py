@@ -6,7 +6,7 @@ while cantVehiculo <= 0:
 
 print(f"SE CONTROLARON {cantVehiculo} VEHICULOS\n")
 
-errores = 0
+errores = 0 
 noExcedio = 0
 menosGrave = 0
 grave = 0

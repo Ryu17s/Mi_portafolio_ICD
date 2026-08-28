@@ -16,4 +16,4 @@ totalCompra = total_IVA - descuento
 
 print("Valor Compra con IVA       = $", round(total_IVA, 1))
 print("Total Descuento            = $", round(descuento, 1))
-print("Valor Compra con Descuento = $", round(totalCompra, 1))
+print("Valor de Compra con Descuento = $", round(totalCompra, 1))

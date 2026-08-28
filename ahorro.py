@@ -8,4 +8,4 @@ capitalActualizado = capital + ganancia
 print(f"Monto de dinero invertido = {int(capital)}")
 print(f"Tasa de interés mensual = {int(interes)}%")
 print(f"Monto de dinero que ganará el inversionista = {int(ganancia)}")
-print(f"Capital actualizado = {int(capitalActualizado)}")
+print(f"Capital actualizado  es = {int(capitalActualizado)}")

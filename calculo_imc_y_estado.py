@@ -7,7 +7,7 @@ print("imc paciente =",round(imc,1))
 
 if imc < 16.5:
     print("Estado nutricional paciente : Desnutrición")
-    print("Alerta : paciente debe modificar su dieta alimenticia")
+    print("Alerta : paciente debe modificar su dieta alimenticia.")
 elif imc > 16.5 and imc < 18.5:
     print("Estado nutricional paciente : Delgadez")
     print("Alerta : paciente debe mantener su dieta alimenticia")

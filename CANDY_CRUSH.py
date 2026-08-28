@@ -28,4 +28,4 @@ else:
     if nivel == 15:
         print(f"Completaste el episodio {episodio}")
     else:
-        print(f"Pasaste al nivel {nivel + 1} del episodio {episodio}")
+        print(f"Pasaste al nivel {nivel + 1} del episodio {episodio}.")

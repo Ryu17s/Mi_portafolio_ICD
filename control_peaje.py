@@ -31,7 +31,7 @@ while True:
         tarifaMaxima = tarifaFinal    
 
 # Resultados    
-print("_-_-_-_Resultados_-_-_-_")
+print("_-_-_-_-Resultados-_-_-_-_")
 print("El total de vehículos registrados es",totalVehiculos )
 print("El total de dinero recaudado es", totalRecaudado)
 print("La tarifa individual más alta registrada es", tarifaMaxima)

@@ -19,7 +19,7 @@ def calcular_longitud_arco(radio, angulo_grados):
         return(2 * math.pi * radio) * (angulo_grados / 360)
   
 #programa principal  
-radio = float(input("Ingresa r"))
+radio = float(input("Ingresa radio"))
 opcion = int(input("ingrese opcion"))
 if opcion == 1:
     print(f"DIAMETRO CIRCUNFERENCIA = {calcular_diametro(radio)}")

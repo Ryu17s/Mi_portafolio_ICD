@@ -4,7 +4,7 @@ catedra3 = float(input())
 
 promedio = round((catedra1 + catedra2 + catedra3) / 3, 2)
 
-print("Promedio =", promedio)
+print("promedio =", promedio)
 
 if promedio < 3:
     print("Reprobaste la asignatura")

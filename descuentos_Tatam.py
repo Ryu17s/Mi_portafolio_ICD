@@ -19,6 +19,6 @@ elif edad >= 31 and destino == 2:
 
 pesos = valorFinal * dolar
 
-print(f"Tienes un descuento del {porcentaje} %")
+print(f"Tienes un descuento del {porcentaje} %.")
 print("El valor final de tu pasaje en dólares es", valorFinal)
 print("El valor final de tu pasaje en pesos es", pesos)

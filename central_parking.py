@@ -23,4 +23,4 @@ else:
         bloques_extra = minutos_adicionales // 25
         cobroTotal = 800 + (minutos_adicionales * 35) + (bloques_extra * 15) + 200
 
-print(cobroTotal)
+print("El cobro total es",cobroTotal)
