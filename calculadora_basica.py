@@ -13,7 +13,3 @@ elif operador == "/":
             resultado = num1 / num2
     
 print("El resultado =",round(resultado,1) )
-    
-    
-
-    
