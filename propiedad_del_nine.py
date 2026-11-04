@@ -30,9 +30,6 @@ if len(lista) > 0:
     print("TOTAL DE NÚMEROS INGRESADOS =",len(lista))
     print("\n------------ PROCESAMIENTO DE NÚMEROS EN LISTA ------------\n")
 
-if len(lista) > 0:
-    tuplaDato = mayorDato(lista[0])
-
     for dato in lista:
         datoMenor, datoMayor = mayorDato(dato)
         resta = int(datoMayor) - int(datoMenor)
